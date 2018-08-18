@@ -6,7 +6,7 @@
 #
 # Count the number of lines in a given list of files.
 # Uses a for loop over all arguments.
-#
+# Ver 1.01 By Santakd
 # Options:
 #  -h     ... help message
 #  -d n ... consider only files modified within the last n days
